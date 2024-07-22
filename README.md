@@ -1,11 +1,11 @@
 # CODETECH-TASK
 CodeTech IT Solutions Internship Tasks
 
-Name: NEHA SUBHASH CHANDAN
-Company: CODETECH IT SOLUTIONS
-ID: CT6WDS1120
-Domain: Data Science
-Duration: July to August 2024
+# Name: NEHA SUBHASH CHANDAN
+# Company: CODETECH IT SOLUTIONS
+# ID: CT6WDS1120
+# Domain: Data Science
+# Duration: July to August 2024
 
 ### Overview of Project:
 
